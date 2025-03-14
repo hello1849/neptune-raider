@@ -17,9 +17,9 @@ Neptune Raider is a free and paid Discord raider, it allows you to raid your fav
 - Limited Proxy Support
 
 ## 🔥 Neptune Paid
-- **[Link](https://auratools.xyz/)**  
+- **[Website](https://auratools.xyz/)**  
 - **[Discord](https://discord.gg/auratools)**
-- 
+
 > Neptune Paid includes:
 - Captcha Solving
 - All features
