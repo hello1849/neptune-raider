@@ -15,5 +15,7 @@
 #from src.utils.ui import *
 #from src.utils.moreutils import *
 
+vers = 1.0
+
 # yeah maybe next update
 # just released dawg
