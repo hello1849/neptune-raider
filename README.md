@@ -29,3 +29,4 @@ Neptune Raider is a free and paid Discord raider, it allows you to raid your fav
 
 ## ⭐ Star us :D
 Consider giving a ⭐ to show sum love <3
+[![Star History Chart](https://api.star-history.com/svg?repos=auratools/neptune-raider&type=Date)](https://www.star-history.com/#auratools/neptune-raider&Date)
