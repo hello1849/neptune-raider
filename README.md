@@ -9,6 +9,11 @@
 
 # 🪐 Neptune Raider
 i know that emoji is a pic of saturn, but who really cares
+
+<p align="center">
+  <img src="https://github.com/auratools/auratools/raw/refs/heads/main/neptuneprev.png" alt="Neptune Preview">
+</p>
+
 ## 🔹 Neptune Free & Paid
 
 Neptune Raider is a free and paid Discord raider, it allows you to raid your favourite servers with *ease*. Why not use it? This version is open source, but it has:
