@@ -26,7 +26,7 @@ from src.skidslookherelol.replyspam import *
 import sys
 
 clear()
-settitle("Neptune [Free] - .gg/auratools")
+settitle("Free Tools Even Token On It")
 
 def handler(option):
     actions = {
